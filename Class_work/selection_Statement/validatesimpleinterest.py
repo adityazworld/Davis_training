@@ -18,3 +18,8 @@ Enter the principal amount: 1000
 Enter the rate of interest: 5
 Enter the time in years: 2
 The simple interest is: 100.0
+------------------------------------------------
+Enter the principal amount: -1000
+Enter the rate of interest: 5       
+Enter the time in years: 2
+Invalid input values. Simple interest cannot be calculated.'''
