@@ -1,4 +1,4 @@
-# check thre digit number is natural number or not
+# check three digit number is natural number or not
 # taking input from user
 
 num = int(input("Enter a three digit number: "))
