@@ -24,4 +24,5 @@ print("The simple interest is:", simple_interest)
 '''Output:
 Enter principal(in rs): 1000
 Enter rate of interest(in %): 5
-Enter time(in years): 2 
+Enter time(in years): 2
+'''
