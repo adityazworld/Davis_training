@@ -16,6 +16,7 @@ def calculate_grade(marks):
          return "Fail"
 
   ##Loop for Student
+  
 for i in range(1,6):
    print("="*35)
    marks =int(input(f"Enter the mark of student {i}:" ))

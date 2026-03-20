@@ -1,6 +1,6 @@
 #find our the gretest no. from the given digits
 
-num = 3723
+num = int(input("Enter a number: "))
 max_digit = 0
 
 while num > 0:
@@ -11,4 +11,8 @@ while num > 0:
    #remove last digit
     num = num // 10       
 
-print("Greatest digit is:", max_digit)
+print("Greatest digit is:", max_digit) 
+
+'''Output:'''
+##Enter a number: 5732    
+##Greatest digit is: 7
